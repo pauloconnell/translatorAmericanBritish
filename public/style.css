@@ -1,7 +1,9 @@
 code {
   background: #d0d0d5;
 }
-
+body {
+  background: url(https://res.cloudinary.com/pollie/image/upload/v1610564138/LondonBridge_zwlnfl.jpg);
+}
 .container {
   display: flex;
   flex-direction: column;
@@ -17,6 +19,9 @@ textarea {
 
 #user-stories {
   font-size: 1.2em;
+}
+#user-stories:hover {
+  background:white;
 }
 
 #output-container,
@@ -44,11 +49,13 @@ input[type="button"] {
 #translated-sentence {
   margin-top: 10px;
   font-weight: normal;
+  background:white;
 }
 
 #error-msg {
   font-weight: normal;
   color: red;
+  background:white;
 }
 
 .highlight {

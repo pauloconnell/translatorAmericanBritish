@@ -1,5 +1,5 @@
 // British equivalents of American words
-
+// american:brit
 export const americanOnly = {
   "acclimate": "acclimatise",
   "acetaminophen": "paracetamol",

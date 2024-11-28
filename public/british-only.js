@@ -1,5 +1,5 @@
 // American equivalents of British words
-
+// british: american
 export const britishOnly = {
   "abseil": "rappel",
   "accountancy": "accounting",
